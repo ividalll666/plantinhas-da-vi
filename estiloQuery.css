@@ -1,6 +1,6 @@
 /* media querys */
 
-@media (max-width: 1580px)
+@media (min-width: 601)  and (max-width: 1580px)
 {
 	#grid-titulo
 {
@@ -13,6 +13,8 @@
 		font-size: 2.8vh;
 	}
 }
+
+/*
 
 @media (max-width: 1010px)
 {
@@ -41,9 +43,9 @@
 	{
 		font-size: 1.2vh;
 	}
-}
+} */
 
-@media (max-width-device:800px) and (max-height-device: 800px)
+@media (min-width:100px) and (max-width: 600px)
 {
 
 	.grid
