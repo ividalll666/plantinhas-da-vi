@@ -43,7 +43,7 @@
 	}
 }
 
-@media (max-device-width:600px) and (max-device-height: 750px)
+@media (max-width:600px) 
 {
 
 	.grid
