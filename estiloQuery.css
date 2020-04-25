@@ -43,7 +43,7 @@
 	}
 }
 
-@media (max-width-device:600px) 
+@media (max-width-device:800px) and (max-height-device: 800px)
 {
 
 	.grid
