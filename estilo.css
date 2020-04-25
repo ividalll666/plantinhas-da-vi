@@ -34,7 +34,7 @@ img
 	text-align: center;
 	align-items: center;
 
-	margin: 0px;
+	margin-bottom: 0px;
 }
 
 .menu
@@ -44,7 +44,6 @@ img
 
 .menu li , label
 {
-	margin: .4em;
 	transition: .5s;
 }
 
@@ -65,50 +64,53 @@ img
 
 /* corpo */
 
-/* css flexbox */
-
 .corpo
 {
-	margin: 0px;
-	background-color: #ebae34;
-	padding-top: 100px;
-	padding-bottom: 50px;
-
+	padding-bottom: 0px;
 }
 
-.corpo > h1 
+.corpo > .titulo 
 {
 	font-size: 3rem;
 	text-align: center;
 	margin-top: 0px;
 	margin-bottom: 0px;
+
+	padding-top: 50px;
 }
 
 .corpo > .subtitulo
 {
 	margin-top: 0px;
 	text-align: center; 
-	margin-bottom: 50px;
+	padding-bottom: 50px;
 	font-weight: bold;
 }
+
+
+/* container geral dos grupos */
 
 .flex
 {
 	display: flex;
 	flex-wrap: wrap;
-	max-width: 80%;
+	max-width: 100%;
+	
 	text-align: center;
+	
 	margin: 0% auto;
+
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 3%;
 }
 
 .flex > .foto
 {
 	border: 2px solid black;
 	margin: 10px;
-	flex: 1 1 30% ;
 	position: relative;
 	overflow: hidden;
-
 }
 
 .flex > .foto:before
@@ -128,12 +130,214 @@ img
 	height: 100%;
 	transition: .5s;
 	z-index: 1;
-
 	content: '';
+
+	cursor: pointer;
+}
+
+.flex > .foto p
+{
+	display: block;
+	position: absolute;
+	color: transparent;
+	transition: .5s;
+	z-index: 0;
+	margin-left: 5px;
+}
+
+.flex > .foto:hover p
+{
+	color: black;
+	transition: .5s;
+	z-index: 10;
+}
+
+
+/* container do grupo 1 */
+
+.flex > .g1
+{
+	flex: 1 1 40%;
+}
+
+.a , .A
+{
+	background-color: #ebae34;
+}
+
+/* grid 1 */
+
+
+
+.grid 
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+
+	background-color: white;
+	
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 8%;
+	
+	grid-gap: 5%;
+
+	text-align: justify;
+}
+
+#grid-foto
+{
+	grid-column: 1/2;
+	grid-row: 1/3;
+}
+
+#grid-legenda
+{
+	grid-column: 2/3;
+	grid-row: 1/3;
+}
+
+#grid-titulo
+{
+	text-align: center;
+	font-size: 4vh;
+}
+
+#grid-sub
+{
+	font-size: 3.5vh;
 }
 
 
 
 
-/* css grid */
+
+/* container do grupo 2 */
+
+.flex > .g2
+{
+	flex: 1 1 20%;
+}
+
+.b
+{
+	background-color: #ebae34;
+}
+
+.container-btn
+{
+	display: flex;
+
+	background-color: #ebae34;
+	justify-content: center;
+
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+}
+
+.btn
+{
+	background-color: transparent;
+	border: 2px solid black;
+
+	font-family: 'Century Gothic';
+	text-align: center;
+	padding: 5px 70px;
+	font-size: 4vh;
+
+	transition: .5s;
+
+	transform: scale(1.0);
+}
+
+.btn:hover
+{
+	transform: scale(1.3);
+
+	cursor: pointer;
+}
+
+
+/* FOOTER */
+
+footer 
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+
+	background-color: black;
+
+	margin-top: 0px;
+	padding: 130px;
+}
+
+footer p
+{
+	text-align: center;
+	margin-bottom: 20px;
+	color: white;
+
+
+}
+
+.container-btn-footer
+{
+	display: flex;
+
+	background-color: #ebae34;
+	justify-content: center;
+	background-color: transparent;
+	margin-bottom: 0px;
+
+	text-align: center;
+}
+
+.container-btn-footer > .botao
+{
+	border: 1px solid white;
+	background: none;
+	padding: 10px 20px;
+	font-size: 20px;
+	color: white;
+	cursor: pointer;
+	transition-duration: .3s;
+	position: relative;
+	overflow: hidden;
+}
+
+.container-btn-footer > .botao:before
+{
+	content: '';
+	position: absolute;
+	left: 0;
+	width: 100%;
+	height: 0;
+	background-color: white;
+	top: 0;
+	transition-duration: .3s;
+	opacity: 0;
+	z-index: -1;
+}
+
+.container-btn-footer > .botao:hover:before
+{
+	color: #ebae34;
+	height: 100%;
+	border-radius: 0 0 50% 50%;
+	opacity: 1;
+}
+
+.botao:hover
+{
+	color: #ebae34;
+}
+
+.ela
+{
+	border-right: 1px solid white;
+}
+
+
 
