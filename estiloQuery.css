@@ -20,15 +20,20 @@
 @media (min-width:100px) and (max-width: 600px)
 {
 
-		.header label 
+	.header label 
 	{
 		font-size: .8rem;
 	}
 
-		.menu li
-		{
+	.menu li
+	{
 			font-size: .8rem;
-		}
+	}
+
+	.flex > .foto p
+	{
+		font-size: .4em;
+	}
 
 	.grid
 	{
@@ -85,6 +90,8 @@
 
 		grid-template-columns: 1fr; 
 	}
+
+	
 
 	.container-btn-footer
 	{

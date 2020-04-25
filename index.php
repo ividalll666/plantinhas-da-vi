@@ -40,22 +40,30 @@
 	 		<article class="flex a">
 
 		 		<div class="foto g1">
-		 			<p>legenda 1</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Suculenta Aloe Juvenna <br> Sedum Adolphii <br> <span class="destaque"> Elementos: </span> <br> Pedrisco de Rio <br> Mármore Triturado <br> <span class="destaque"> Pote de Plástico </span> 
+		 			</p>
 					<img src="_imagens/_b/n1.jpg">
 		 		</div>
 	
 		 		<div class="foto g1">
-		 			<p>legenda 2</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Sedum nussbaumerianum <br> Mammillaria Gracillis <br> <span class="destaque"> Elementos: </span> <br> Pedrisco de Rio <br> Mármore Triturado <br>  <span class="destaque"> Pote de Plástico </span> 
+		 			</p>
 					<img src="_imagens/_b/n2.jpg">
 		 		</div>
 
 		 		<div class="foto g1">
-		 			<p>legenda 3</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Orbea Variegata <br> Echinopsis Chamaecereus <br> Mammillaria Elongata <br> <span class="destaque"> Elementos: </span> <br> Pedrisco de Rio <br> Mármore Triturado <br><span class="destaque"> Pote de Plástico </span> 
+		 			</p>
 					<img src="_imagens/_b/n3.jpg">
 		 		</div>
 
 		 		<div class="foto g1">
-		 			<p>legenda 4</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Sedum Burrito <br> Echeveria Elegans <br> Dudleya Greenei <br> <span class="destaque"> Elementos: </span> <br> Pedrisco de Rio <br> Mármore Triturado <br> <span class="destaque"> Pote de Plástico </span> 
+		 			</p>
 					<img src="_imagens/_b/n4.jpg">
 		 		</div>
 
@@ -84,19 +92,26 @@
 		 	<article class="flex b">
 		 		
 		 		<div class="foto g2">
-		 			<p>legenda 1</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Haworthia retusa <br> Sedum Sediforme <br> Cacto <br> <span class="destaque"> Elementos: </span> <br> Pedrisco de Rio <br> Mármore Triturado <br> <span class="destaque">Pote de Plástico </span> 
+		 			</p>
 					<img src="_imagens/_a/n2.jpg">
 		 		</div>
 
 		 		<div class="foto g2">
-		 			<p>legenda 1</p>
+		 			<p> 
+		 				<span class="destaque">Plantas:</span> <br> Portulacaria Afra <br> Semprervivum tectorum <br> <span class="destaque">Elementos:</span> <br> Pedrisco de Rio <br> Mármore Triturado <br> <span class="destaque">Pote de cerâmica </span> 
+		 			</p>
 					<img src="_imagens/_a/n3.jpg">
 		 		</div>
 
 		 		<div class="foto g2">
-		 			<p>legenda 1</p>
+		 			<p> 
+		 				<span class="destaque"> Plantas: </span> <br> Sedum Sediforme <br> Delosperma Cooperi <br> kalanchoe  tomentosa <br> Acanthocereus tetragonus <br> <span class="destaque"> Elementos: </span>  <br> Mármore Triturado <br> <span class="destaque"> Pote de Alumínio </span> 
+		 			</p>
 					<img src="_imagens/_a/n4.jpg">
 		 		</div>
+
 		 	</article>
 
 		 	<div class="container-btn">
