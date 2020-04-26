@@ -1,5 +1,5 @@
 
-@media (min-width:100px) and (max-width: 600px)
+@media (min-width:100px) and (max-width: 399px)
 {
 
 
@@ -25,6 +25,7 @@
 
 	h1
 	{
+		padding-top: 5%;
 		font-size: 1.5rem;
 		margin-bottom: 5px;
 	}
@@ -78,4 +79,46 @@
 	}
 
 
+}
+
+@media (min-width:400px) and (max-width: 600px)
+{
+	#container-titulo
+	{
+		padding-top: 1%;
+		padding-bottom: 1%;
+	}
+
+	h1
+	{
+		padding-top: 3%;
+		font-size: 1rem;
+		margin-bottom: 5px;
+	}
+
+	p
+	{
+		font-size: .4em;
+	}
+
+
+	/* galeria */
+
+	.content h1
+	{
+		font-size: .7em;
+		margin-bottom: 0px;
+	}
+
+	.content h2
+	{
+		margin-top: 0px;
+		font-size: .6em;
+		margin-bottom: 0px;
+	}
+
+	.content p
+	{
+		font-size: .5em;
+	}
 }

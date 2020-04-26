@@ -115,7 +115,7 @@
 		 	</article>
 
 		 	<div class="container-btn">
-		 	<button onclick="" class="btn b-galeria"> Galeria </button>
+		 	<button onclick="window.location.href='galeria.php'" class="btn b-galeria"> Galeria </button>
 		 	</div>
 
 	 	</main>
