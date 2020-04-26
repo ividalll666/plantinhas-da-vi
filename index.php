@@ -86,8 +86,8 @@
 
 
 
-		 	<h1 class="titulo A"> Um pouco mais para admiração: </h1>	
-	 		<p class="subtitulo A"> Acesse a galeria pelo botão para mais. </p>
+		 	<h1 class="titulo A B"> Um pouco mais para admiração: </h1>	
+	 		<p class="subtitulo A B"> Acesse a galeria pelo botão para mais. </p>
 
 		 	<article class="flex b">
 		 		
