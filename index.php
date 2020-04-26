@@ -22,9 +22,9 @@
 
 			<nav>	
 				<ul class="menu">
-					<li> <a> Início </a> </li>
-					<li> <a> Galeria </a> </li>
-					<li> <a> contato </a></li>
+					<li onclick="location.reload()"> <a>  Início </a>  </li>
+					<li onclick="window.location.href='galeria.php'"> <a> Galeria </a> </li>
+					<li onclick="window.location.href=''"> <a> contato </a> </li>
 				</ul>
 			</nav>
 	 	</header>

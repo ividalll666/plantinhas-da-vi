@@ -1,0 +1,61 @@
+
+@media (min-width:100px) and (max-width: 600px)
+{
+
+
+	/* cabecalho */
+	.header label 
+	{
+		font-size: .4rem;
+	}
+
+	.menu li
+	{
+			font-size: .6rem;
+	}
+
+
+	/* corpo */
+
+	#container-titulo
+	{
+		padding-top: 1%;
+		padding-bottom: 1%;
+	}
+
+	h1
+	{
+		font-size: 1.5rem;
+		margin-bottom: 5px;
+	}
+
+	p
+	{
+		font-size: .45rem;
+	}
+
+	
+	/* footer */
+
+	footer
+	{
+		grid-template-columns: 1fr;
+
+		justify-content: center;
+	}
+
+	
+
+	.container-btn-footer
+	{
+		margin-bottom: 40px;
+
+	}
+
+	.ela
+	{
+		border-right: 0px;
+	}
+
+
+}
