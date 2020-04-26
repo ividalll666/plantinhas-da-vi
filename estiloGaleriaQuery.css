@@ -34,6 +34,26 @@
 		font-size: .45rem;
 	}
 
+	/* galeria */
+
+	.content h1
+	{
+		font-size: 1.3em;
+		margin-bottom: 0px;
+	}
+
+	.content h2
+	{
+		margin-top: 0px;
+		font-size: 1.0em;
+		margin-bottom: 0px;
+	}
+
+	.content p
+	{
+		font-size: .8em;
+	}
+
 	
 	/* footer */
 

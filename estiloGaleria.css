@@ -103,10 +103,8 @@ img
 
 img
 {
-	max-width: 100%;
-	display: block;
-
-	border: 1px solid black;
+	width:  100%;
+	height: 99%;
 
 }
 
@@ -114,24 +112,70 @@ img
 {
 	display: flex;
 
-	padding: 2% 5% ;
-
 	flex-wrap: wrap;
 }
 
-.galeria > div
+.box 
 {
-	flex: 1 1 48%;
+	border: 2px solid black;
 
-	margin: 1%;
+	margin: 2%;
+	flex: 1 1 45%;
+	position: relative;
 
+	overflow: hidden;
+}
+
+ .box .content
+{
+
+	background-color: transparent;
+	font-size: 1em;
+
+	position: absolute;
+	top: 0;
+	transform: translateY(-100%);
+	width: 100%;
+
+	text-align: center;
+
+	transition: .5s;
 }
 
 
+.box:hover .content
+{
+		transform: translateY(0%);
+		transition: .5s;
 
+		cursor: pointer;
 
+}
 
+.box:before
+{
+	content: '';
 
+	background-color: white;
+
+	position: absolute;
+	display: block;
+
+	width: 100%;
+	height: 00%;
+
+	top: 0;
+
+	transition: .6s;
+}
+
+.box:hover:before
+{
+	height: 100%;
+	cursor: pointer;
+
+	transition: .4s;
+}
 
 
 

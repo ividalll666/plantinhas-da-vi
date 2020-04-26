@@ -40,55 +40,185 @@
 		 		</div>
 
 
-		 		<div class="galeria">
-		 			
-		 			<div>
-		 				<img src="_imagens/_Galeria/n1.jpg">
-		 			</div>
+				 <div class="galeria">
+				 			
+				 			<div class="box">
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n2.jpg">
-		 			</div>
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n2.jpg">
+				 				</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n3.jpg">
-		 			</div>
+				 				<div class="content">
+				 					<h1> Plantinha #001</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 20 </p>
+				 				</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n4.jpg">
-		 			</div>
+				 			</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n5.jpg">
-		 			</div>
+				 <div class="box">
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n6.jpg">
-		 			</div>
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n3.jpg">
+				 				</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n7.jpg">
-		 			</div>
+				 				<div class="content">
+				 					<h1> Plantinha #002</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 28 </p>
+				 				</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n8.jpg">
-		 			</div>
+				 </div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n9.jpg">
-		 			</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n10.jpg">
-		 			</div>
+				 <div class="box">
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n11.jpg">
-		 			</div>
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n4.jpg">
+				 				</div>
 
-		 			<div>
-		 				<img src="_imagens/_Galeria/n12.jpg">
-		 			</div>
+				 				<div class="content">
+				 					<h1> Plantinha #003</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 20 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n5.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #004</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 18 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n6.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #005</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 35 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n7.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #006</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 30 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n8.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #007</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 22 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n9.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #008</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 20 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n10.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #009</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$20 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n11.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #010</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 12 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n1.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #011</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 20 </p>
+				 				</div>
+
+				 </div>
+
+
+				 <div class="box">
+
+				 				<div class="imgBox">
+					 				<img src="_imagens/_galeria/n12.jpg">
+				 				</div>
+
+				 				<div class="content">
+				 					<h1> Plantinha #012</h1>
+				 					<h2> Preço: </h2>
+				 					<p> R$ 08 </p>
+				 				</div>
+
+				 </div>
 
 		 		</div>
 
