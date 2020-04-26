@@ -43,52 +43,51 @@
 		 		<div class="galeria">
 		 			
 		 			<div>
-		 				<img src="_imagens/_galeria/n1.jpg">
-		 				<h1></h1>
+		 				<img src="_imagens/_Galeria/n1.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n2.jpg">
+		 				<img src="_imagens/_Galeria/n2.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n3.jpg">
+		 				<img src="_imagens/_Galeria/n3.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n4.jpg">
+		 				<img src="_imagens/_Galeria/n4.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n5.jpg">
+		 				<img src="_imagens/_Galeria/n5.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n6.jpg">
+		 				<img src="_imagens/_Galeria/n6.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n7.jpg">
+		 				<img src="_imagens/_Galeria/n7.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n8.jpg">
+		 				<img src="_imagens/_Galeria/n8.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n9.jpg">
+		 				<img src="_imagens/_Galeria/n9.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n10.jpg">
+		 				<img src="_imagens/_Galeria/n10.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n11.jpg">
+		 				<img src="_imagens/_Galeria/n11.jpg">
 		 			</div>
 
 		 			<div>
-		 				<img src="_imagens/_galeria/n12.jpg">
+		 				<img src="_imagens/_Galeria/n12.jpg">
 		 			</div>
 
 		 		</div>
