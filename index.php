@@ -16,6 +16,8 @@
 
 
 <body>		
+
+		<button ></button>
 	
 		<header class="header">
 			<label> Plantinhas da Vivi!</label>
@@ -24,7 +26,7 @@
 				<ul class="menu">
 					<li onclick="location.reload()"> <a>  Início </a>  </li>
 					<li onclick="window.location.href='galeria.php'"> <a> Galeria </a> </li>
-					<li onclick="window.location.href=''"> <a> contato </a> </li>
+					<li onclick = "window.location.href = '#sociais' " > <a> contato </a> </li>
 				</ul>
 			</nav>
 	 	</header>
